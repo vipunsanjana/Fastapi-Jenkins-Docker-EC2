@@ -50,5 +50,5 @@ This is a simple **FastAPI** "Hello World" web app integrated with a complete **
 
 - 🔗 GitHub: [@vipunsanjana](https://github.com/vipunsanjana)
 - 📧 Email: vipunsanjana34@gmail.com
-- 🏷️ Project: FastAPI + Docker + Jenkins + EC2 + Kubernetes
+- 🏷️ Project: FastAPI + Docker + Jenkins + EC2 + Docker Hub
 
